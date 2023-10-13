@@ -1,0 +1,53 @@
+.box{
+    margin:30px 20px 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.h1{
+    color: cadetblue;
+}
+
+.star i {
+    cursor: pointer;
+    border: thin;
+   
+  gap: 25px;
+
+}
+
+.checked {
+    color: orange;
+  }
+
+
+
+
+
+ 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
